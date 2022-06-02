@@ -6,6 +6,6 @@ reasonable changes to them.
 Usage is very simple:
 
 ``` javascript
-RuntimeFormatter.init();
-RuntimeFormatter.updateYears();
+RuntimeUpdater.init();
+RuntimeUpdater.updateYears();
 ```
