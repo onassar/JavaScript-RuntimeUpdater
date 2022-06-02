@@ -2,7 +2,7 @@
 /**
  * RuntimeUpdater
  * 
- * @todo    Follow same paradigm as other simple classes for config, _scan, etc.
+ * @todo    Follow paradigm as other simple classes for config, _scan, etc.
  * @access  public
  * @var     Object
  */
